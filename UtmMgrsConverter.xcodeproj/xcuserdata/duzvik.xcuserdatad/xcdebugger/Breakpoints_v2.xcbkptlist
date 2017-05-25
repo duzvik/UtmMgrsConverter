@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UtmMgrsConverter/lib/Dms.swift"
+            timestampString = "517400224.282795"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "toDMS(deg:format:dp:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static UtmMgrsConverter.Dms.toDMS (deg : Swift.Double, format : Swift.Optional&lt;Swift.String&gt;, dp : Swift.Optional&lt;Swift.Int&gt;) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "UtmMgrsConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/duzvik/dev/UtmMgrsConverter/UtmMgrsConverter/lib/Dms.swift"
+                  timestampString = "517334013.118423"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "3136">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static UtmMgrsConverterTests.Dms.toDMS (deg : Swift.Double, format : Swift.Optional&lt;Swift.String&gt;, dp : Swift.Optional&lt;Swift.Int&gt;) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "UtmMgrsConverterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/duzvik/dev/UtmMgrsConverter/UtmMgrsConverter/lib/Dms.swift"
+                  timestampString = "517334013.120577"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "3136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
